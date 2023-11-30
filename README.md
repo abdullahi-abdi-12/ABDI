@@ -1,0 +1,2 @@
+# ABDI
+SETTING UP GIT
